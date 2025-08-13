@@ -7,3 +7,4 @@ oauthlib
 requests_oauthlib
 dotenv
 sentinelhub
+scipy

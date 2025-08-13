@@ -3,3 +3,6 @@ This lab focuses on monitoring and modeling cyanobacteria blooms in Lake Atitlá
 python -m venv ds-env 
 ./ds-env/Scripts/Activate
 pip install -r requirements.txt 
+
+## sentinel api documentantation
+https://sentinelhub-py.readthedocs.io/en/latest/configure.html
