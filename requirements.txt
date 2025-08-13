@@ -6,3 +6,4 @@ openeo
 oauthlib
 requests_oauthlib
 dotenv
+sentinelhub
