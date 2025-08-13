@@ -1,1 +1,3 @@
 samples/
+/lab/.env
+/lab/out/

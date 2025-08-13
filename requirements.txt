@@ -3,3 +3,6 @@ numpy
 matplotlib
 datetime
 openeo
+oauthlib
+requests_oauthlib
+dotenv
