@@ -10,3 +10,4 @@ sentinelhub
 scipy
 imageio
 folium
+scikit-learn
